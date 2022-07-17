@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MiGi-Song, who is an finance master at National Central University in Taiwan.
-- 👀 I’m interested in program trading for factors investment and technical analysis.
-- 🌱 I’m currently learning to find some profitable strategy with using python.
-- 💞️ I’m looking to collaborate on factors investment and technical analysis.
-- 📫 How to reach me
+-  Hi, I’m @MiGi-Song, who is an finance master at National Central University in Taiwan.
+-  I’m interested in program trading for factors investment and technical analysis.
+-  I’m currently learning to find some profitable strategy with using python.
+-  I’m looking to collaborate on factors investment and technical analysis.
